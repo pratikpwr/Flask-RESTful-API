@@ -7,7 +7,7 @@ Flask REST API app for store management
 - User Registration and Login
 
 ## Installation
-'''
+```
 pip install flask
 python app.py
-'''
+```
