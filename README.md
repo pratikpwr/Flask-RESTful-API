@@ -5,6 +5,7 @@ Flask REST API app for store management
 - create, delete, update, search items
 - JWT Authentication
 - User Registration and Login
+- deployment to heroku
 
 ## Installation
 ```
