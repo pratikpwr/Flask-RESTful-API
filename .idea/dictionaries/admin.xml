@@ -4,6 +4,7 @@
       <w>signin</w>
       <w>sqlalchemy</w>
       <w>tablename</w>
+      <w>uwsgi</w>
     </words>
   </dictionary>
 </component>
